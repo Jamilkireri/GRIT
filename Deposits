@@ -1,0 +1,37 @@
+[
+  {
+    "TranDate": "17/06/2021",
+    "Code": "170674",
+    "Description": "This is a description",
+    "Credit": "500000",
+    "Debit": "0"
+  },
+  {
+    "TranDate": "17/06/2020",
+    "Code": "1A70674",
+    "Description": "second record",
+    "Credit": "700000",
+    "Debit": "0"
+  },
+  {
+    "TranDate": "15/08/2021",
+    "Code": "170674",
+    "Description": "From DK",
+    "Credit": "367000",
+    "Debit": "0"
+  },
+  {
+    "TranDate": "15/08/2021",
+    "Code": "170674",
+    "Description": "From Ivan K",
+    "Credit": "1000000",
+    "Debit": "0"
+  },
+  {
+    "TranDate": "15/08/2021",
+    "Code": "170674",
+    "Description": "Oil Money",
+    "Credit": "2000000000",
+    "Debit": "0"
+  }
+]
